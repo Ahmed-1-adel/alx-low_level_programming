@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * Main - Entry point
+ * main - Entry point
  *
- * Description: A C prgoram that prints with puts function.
+ * Description: A C program that prints with put function.
  *
  * Return: Alawys 0 (Success)
 */
