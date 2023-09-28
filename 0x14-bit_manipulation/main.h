@@ -1,6 +1,3 @@
-/*
- * This File Main.h And All Var Here
-*/
 #ifndef MAIN_H
 #define MAIN_H
 
