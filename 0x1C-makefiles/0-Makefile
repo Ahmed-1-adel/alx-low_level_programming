@@ -1,0 +1,3 @@
+all: main.c school.c 
+	gcc main.c scholl.c -o school
+
